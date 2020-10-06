@@ -1,4 +1,4 @@
-# Gated Neural Network Option pricing
+# Gated Neural Network(GNN) Option pricing
 
 * Gated Neural Network for Option Pricing implementation version Keras
 * I referenced the code on this site.(`https://github.com/sapphire21/NN-Option-Pricing`)
